@@ -17,7 +17,9 @@ function deleteAPi(req, res) {
 	})
 }
 
+
+
 module.exports = {
 	getApi,
-	deleteAPi
+	deleteAPi,
 }
